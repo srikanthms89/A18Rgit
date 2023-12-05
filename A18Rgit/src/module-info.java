@@ -6,4 +6,5 @@
  *
  */
 module A18Rgit {
+	requires java.sql;
 }
